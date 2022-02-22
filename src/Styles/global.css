@@ -1,0 +1,14 @@
+:nth-child(heaven){
+   color:#cccccc;
+   height: 190px;
+   padding: 8px;
+   text-align: center;
+   
+}
+:nth-child(odd){
+    color: #aaaaaa;
+    height: 190px;
+    padding: 8px;
+    text-align: center;
+    
+}
